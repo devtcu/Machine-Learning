@@ -1,4 +1,3 @@
-# Machine_Learning
 
 This repository contains a collection of machine learning projects, including:
 - Neural networks built from scratch (see `Playground/`)
