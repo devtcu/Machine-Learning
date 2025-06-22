@@ -1,5 +1,5 @@
 
-This repository contains a collection of machine learning projects, including:
+This repository contains a collection of machine learning projects and notebooks that I have written, some of which include:
 - Neural networks built from scratch (see `Playground/`)
 - Quantitative finance and sentiment analysis notebooks (see `Quant/`)
 - Example data science workflows
